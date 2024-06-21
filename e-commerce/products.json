@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name":" Ring 1",
+        "price": 100000,
+        "image": "./assets/image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" Ring 2",
+        "price": 35000,
+        "image": "./assets/image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" Ring 3",
+        "price": 59000,
+        "image": "./assets/image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" Ring 4",
+        "price": 21000,
+        "image": "./assets/image/4.png"
+    },
+    {
+        "id": 6,
+        "name":" Ring 6",
+        "price": 245000,
+        "image": "./assets/image/5.png"
+    }
+]
